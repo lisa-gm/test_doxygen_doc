@@ -1,0 +1,8 @@
+# Doxyfile for the simple C++ script
+
+PROJECT_NAME           = "My C++ Script"
+OUTPUT_DIRECTORY       = ./docs
+INPUT                  = ./src
+RECURSIVE              = YES
+EXTRACT_ALL            = YES
+
